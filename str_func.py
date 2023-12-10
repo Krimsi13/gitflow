@@ -5,6 +5,6 @@ def upper_(s):
 
 
 def title_(str2):
-    """Title all words """
+    """Title all words"""
     str_t = str2.title()
     return str_t
